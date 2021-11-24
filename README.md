@@ -2,7 +2,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-    ![Preview of the project](./BudgetTracker.png)
+   ![Preview of the project](./BudgetTracker.png)
 
 
   ## Description:
